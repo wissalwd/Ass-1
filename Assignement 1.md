@@ -10,11 +10,11 @@ jupytext:
 kernelspec:
   display_name: Python 3
   language: python
-  name: python3
+  name: Wissal Ait Alla
 ---
-
+Chapitre 5
 # Les listes
-
+## wissal ait alla
 ```{admonition} Définition
 
 Une liste est une collection ordonnée de valeurs.
@@ -138,7 +138,7 @@ print(liste[:3])
 print(liste[5:])
 ```
 
-(parcours-liste)=
+## (parcours-liste)=
 ## Parcours d'une liste
 
 Lorsque l'on parcourt une liste, on peut vouloir accéder :
